@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ActivitateCTS2026_Radulescu_Alexandru_Gabriel.iml" filepath="$PROJECT_DIR$/.idea/ActivitateCTS2026_Radulescu_Alexandru_Gabriel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica_Test_1/Builder_T1/Builder_T1.iml" filepath="$PROJECT_DIR$/Practica_Test_1/Builder_T1/Builder_T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica_Test_1/Factory_Method_T1/Factory_Method_T1.iml" filepath="$PROJECT_DIR$/Practica_Test_1/Factory_Method_T1/Factory_Method_T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica_Test_1/Practica_Test_1.iml" filepath="$PROJECT_DIR$/Practica_Test_1/Practica_Test_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_1/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Seminar5_1/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica_Test_1/Prototype_T1/Prototype_T1.iml" filepath="$PROJECT_DIR$/Practica_Test_1/Prototype_T1/Prototype_T1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
@@ -11,7 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_1/Seminar5_1.iml" filepath="$PROJECT_DIR$/Seminar5_1/Seminar5_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica_Test_1/Simple_Factory_T1/Simple_Factory_T1.iml" filepath="$PROJECT_DIR$/Practica_Test_1/Simple_Factory_T1/Simple_Factory_T1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Seminar4/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica_Test_1/Singleton_T1/Singleton_T1.iml" filepath="$PROJECT_DIR$/Practica_Test_1/Singleton_T1/Singleton_T1.iml" />
     </modules>
   </component>
 </project>
