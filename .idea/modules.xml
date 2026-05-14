@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practica_Test_1/Factory_Method_T1/Factory_Method_T1.iml" filepath="$PROJECT_DIR$/Practica_Test_1/Factory_Method_T1/Factory_Method_T1.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlyWeight/FlyWeight.iml" filepath="$PROJECT_DIR$/FlyWeight/FlyWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practica_Test_1/Practica_Test_1.iml" filepath="$PROJECT_DIR$/Practica_Test_1/Practica_Test_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_1/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Seminar5_1/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practica_Test_1/Prototype_T1/Prototype_T1.iml" filepath="$PROJECT_DIR$/Practica_Test_1/Prototype_T1/Prototype_T1.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Seminar4/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practica_Test_1/Singleton_T1/Singleton_T1.iml" filepath="$PROJECT_DIR$/Practica_Test_1/Singleton_T1/Singleton_T1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestareUnitara/TestareUnitara.iml" filepath="$PROJECT_DIR$/TestareUnitara/TestareUnitara.iml" />
     </modules>
   </component>
 </project>
